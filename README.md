@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **DevOps Engineer** passionate about **automation, C
 - **Cloud & Infrastructure:** AWS (EC2, S3, RDS, Route 53, EKS), Terraform
 - **CI/CD:** Jenkins, GitHub Actions, ArgoCD
 - **Containerization & Orchestration:** Docker, Kubernetes (Minikube, EKS)
-- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack, CloudWatch
 
 ---
 
@@ -25,4 +25,6 @@ Welcome to my GitHub! I'm a **DevOps Engineer** passionate about **automation, C
 
 ## 📊 GitHub Stats
 
-![Shoaib's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan2126&theme=buefy)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibkhan2126&theme=buefy" alt="Shoaib's GitHub Contributions" />
+</p>
